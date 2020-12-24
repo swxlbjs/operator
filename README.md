@@ -1,7 +1,3 @@
-kubebuilder init --domain operator.swxlbjs.com
+基于kuberbuilder的operator
 
-
-kubebuilder edit --multigroup=true
-
-kubebuilder create api --group mysql --version v1alpha1 --kind MM
-
+功能及参数详细[setting.md](./docs/doc.md)
