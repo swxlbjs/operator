@@ -1,0 +1,7 @@
+apiVersion: mysql.operator.swxlbjs.com/v1alpha1
+kind: MM
+metadata:
+  name: mm-sample
+spec:
+  # Add fields here
+  foo: bar

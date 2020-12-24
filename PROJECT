@@ -1,0 +1,8 @@
+domain: operator.swxlbjs.com
+multigroup: true
+repo: github.com/swxlbjs/operator
+resources:
+- group: mysql
+  kind: MM
+  version: v1alpha1
+version: "2"
